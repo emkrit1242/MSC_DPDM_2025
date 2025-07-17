@@ -1,0 +1,6 @@
+# Research
+
+* งานวิจัยที่หามาเอง
+1) Zheng, Z., He, Z., Khattab, O., Rampal, N., Zaharia, M. A., Borgs, C., ... & Yaghi, O. M. (2024). Image and data mining in reticular chemistry powered by GPT-4V. Digital discovery, 3(3), 491-501.
+2) Murray, J. D., Bennett-Lenane, H., O’Dwyer, P. J., & Griffin, B. T. (2024). Establishing a Pharmacoinformatics Repository of Approved Medicines: A Database to Support Drug Product Development. Molecular Pharmaceutics, 22(1), 408-423.
+3) Park, S., Kim, H., Kim, H., Cho, M., Kim, D., Kim, D., & Yun, U. (2025). Approximate erasable pattern discovery and analytics on stream data. Knowledge-Based Systems, 312, 113161.
