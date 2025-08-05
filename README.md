@@ -20,7 +20,9 @@ Score:
 * ครั้งที่ 2 เลือกงานวิจัย
 1) Park, S., Kim, H., Kim, H., Cho, M., Kim, D., Kim, D., & Yun, U. (2025). Approximate erasable pattern discovery and analytics on stream data. Knowledge-Based Systems, 312, 113161.
 2) Kim, H., Cho, M., Park, S., Kim, D., Kim, D., & Yun, U. (2025). Damped weighted erasable itemset mining with time sensitive dynamic environments. Journal of Big Data, 12(1), 20.
+
    งานวิจัยที่ได้คือ
+   
 Kauffmann, J., Dippel, J., Ruff, L., Samek, W., Müller, K. R., & Montavon, G. (2025). Explainable AI reveals Clever Hans effects in unsupervised learning models. Nature Machine Intelligence, 1-11.
 
 * ครั้งที่ 3 Abstract
