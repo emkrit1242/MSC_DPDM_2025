@@ -2,29 +2,25 @@
 Kritsadakorn phuyodploy 685020050-1
 
 Score:
-* Research Project  20%
-* Homework  30%
-* Quiz  10%
-* Midterm Exam  20%
-* Final Exam  20%
+| Part|  %|
+| -------|------|
+| Research Project|  20%|
+| Homework|  30%|
+| Quiz|  10%|
+| Midterm Exam|  20%|
+| Final Exam|  20%|
 
 
 
-# Research
+| Research| |
+| ----------------------|----|
+| ครั้งที่ 1 งานวิจัยที่หามาเอง| [1) Image and data mining in reticular chemistry powered by GPT-4V. Digital discovery](https://pubs.rsc.org/en/content/articlepdf/2024/dd/d3dd00239j)|
+| | [2) Establishing a Pharmacoinformatics Repository of Approved Medicines: A Database to Support Drug Product Development. Molecular Pharmaceutics](https://pubs.acs.org/doi/pdf/10.1021/acs.molpharmaceut.4c00991)|
+| | [3) Approximate erasable pattern discovery and analytics on stream data](https://pdf.sciencedirectassets.com/271505/1-s2.0-S0950705125X00022/1-s2.0-S0950705125002084/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB8aCXVzLWVhc3QtMSJHMEUCIBwxZEjqB1d7asSRuOJ8JWpaFjD2r%2Fn3i0uGAC2TbipDAiEAvaDDyMGPuvlTFboeJOW3WcHRUjKGTzZ1G8f9Rp96%2F94qswUIWBAFGgwwNTkwMDM1NDY4NjUiDFYe3DWnhxOeQfm7kCqQBZGGRUw18Czq04oTZ1WLQe3ShlAwTn1u%2FAkXkae364HnVGbhtaa%2Bynwqqh%2B3rCb74a0IeiIcyAn1IQvpWUtfqnUr3o3gBFm9r5BnpCzCXNX9%2FyhNI6wyDU178ZknI0HGBjl8SEILV9PgmxDrL7qwFoyBjdN7GCrYrirwhZlZRZY9mii4aM7stU7YzsYhI3z%2FHeQ5VAj%2BB4g8HZZiCwb1rdVRQrJ4oJw1ija562zHnfJegRLz9MxFJAf8WSzml8Z%2BY4SdZfZgE%2FEXROJLBJcGrZRepHFYCO%2F5wROpAvHdnzhnmyPaSfx%2B0iCFIzWQG%2FFiEQSMtjDMY5LP73BblNDCm3wRmsbVjNzhSHglDcXcAhao0EFeSPt941UGtbZH0lhuZZm0AVGuxhmlIbCjxz7Ygw6XGiVq00MwYauTwwWdEQbCOiU4Nil0OQgqdR5MKiGN4mvzFUvdZYEZmQsilN2H7LCnJSxLeqcEHN2vdFAIAgF0omrt2iwzbpPbCoS6aRqpMkqQ%2FyGGxz70FLRf701DehLP8wjIZqKFUlURZuQrcN0g5alWLR2Iv6k%2BwjBxnLEs3LGD4PEc6z3QIY69wLUgA3EADF1EF%2BpuygYDKiKIBEmjISKuSzRwxHuaWymyx3ngcCxBMdaO9P8dnnekZ8ncvtTKTG27qjZCZk8%2FjeMIzkunlRfKpnt%2BUlXzef1inxC%2F0O0%2FWgeAKIhmp1C5HweYPTzInBr8Qe8qm2Q4iMRYyh18pVTeH4wmpq8yA66a%2F2T42v688zIP50oQYF%2BXWfhQkBbpp8%2FIsy91JpVFC4oRvutk51GCsTzXcJ1xTBIDcgX0RSacQB79JGIWyuz2DwVw6%2BnTaRkviPlZ6hCH9uTau%2FFPMLHIxsQGOrEBhkfeChUiS7Caf6WR4npXM%2Fe9pGY1BJMzd1TmvJVFeFr%2B7kN%2BFLp7yxvXybB6keAZOHeabvN7pC1Ar9B7d6SYJIgj8IACu0UfFSaJEJNdu7V%2FRvT0wMSh5qAxMx54icZRR8aX9P7Gqg0yqgMzVa6DD%2FiWy%2BhDSDoxmPvydTM%2FG9WsJq1iaF8lpsJHu3LLam%2BKQXFDqJP7kaAe1jyuT4j3cRHvoy3y%2BZFNAw118SzIeD%2BI&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250805T070623Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6JCS7GIS%2F20250805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3aca237f06818cc9fa4118988a73eca325fdbdd5f37b93382a735acfe4965bb2&hash=8ce937e6f15163d832e21b5dc1b269773d9560bb5ee89f9dcfedce3404edb55e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0950705125002084&tid=spdf-e0d711b4-f558-4bcc-9ded-c1b24b477b17&sid=3c996fa71563b4467f890e4-294d7c857bfdgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=12095d56045454505854&rr=96a473978c064e3c&cc=th)|
+| ครั้งที่ 2 เลือกงานวิจัย| [1) Approximate erasable pattern discovery and analytics on stream data](https://pdf.sciencedirectassets.com/271505/1-s2.0-S0950705125X00022/1-s2.0-S0950705125002084/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB8aCXVzLWVhc3QtMSJHMEUCIBwxZEjqB1d7asSRuOJ8JWpaFjD2r%2Fn3i0uGAC2TbipDAiEAvaDDyMGPuvlTFboeJOW3WcHRUjKGTzZ1G8f9Rp96%2F94qswUIWBAFGgwwNTkwMDM1NDY4NjUiDFYe3DWnhxOeQfm7kCqQBZGGRUw18Czq04oTZ1WLQe3ShlAwTn1u%2FAkXkae364HnVGbhtaa%2Bynwqqh%2B3rCb74a0IeiIcyAn1IQvpWUtfqnUr3o3gBFm9r5BnpCzCXNX9%2FyhNI6wyDU178ZknI0HGBjl8SEILV9PgmxDrL7qwFoyBjdN7GCrYrirwhZlZRZY9mii4aM7stU7YzsYhI3z%2FHeQ5VAj%2BB4g8HZZiCwb1rdVRQrJ4oJw1ija562zHnfJegRLz9MxFJAf8WSzml8Z%2BY4SdZfZgE%2FEXROJLBJcGrZRepHFYCO%2F5wROpAvHdnzhnmyPaSfx%2B0iCFIzWQG%2FFiEQSMtjDMY5LP73BblNDCm3wRmsbVjNzhSHglDcXcAhao0EFeSPt941UGtbZH0lhuZZm0AVGuxhmlIbCjxz7Ygw6XGiVq00MwYauTwwWdEQbCOiU4Nil0OQgqdR5MKiGN4mvzFUvdZYEZmQsilN2H7LCnJSxLeqcEHN2vdFAIAgF0omrt2iwzbpPbCoS6aRqpMkqQ%2FyGGxz70FLRf701DehLP8wjIZqKFUlURZuQrcN0g5alWLR2Iv6k%2BwjBxnLEs3LGD4PEc6z3QIY69wLUgA3EADF1EF%2BpuygYDKiKIBEmjISKuSzRwxHuaWymyx3ngcCxBMdaO9P8dnnekZ8ncvtTKTG27qjZCZk8%2FjeMIzkunlRfKpnt%2BUlXzef1inxC%2F0O0%2FWgeAKIhmp1C5HweYPTzInBr8Qe8qm2Q4iMRYyh18pVTeH4wmpq8yA66a%2F2T42v688zIP50oQYF%2BXWfhQkBbpp8%2FIsy91JpVFC4oRvutk51GCsTzXcJ1xTBIDcgX0RSacQB79JGIWyuz2DwVw6%2BnTaRkviPlZ6hCH9uTau%2FFPMLHIxsQGOrEBhkfeChUiS7Caf6WR4npXM%2Fe9pGY1BJMzd1TmvJVFeFr%2B7kN%2BFLp7yxvXybB6keAZOHeabvN7pC1Ar9B7d6SYJIgj8IACu0UfFSaJEJNdu7V%2FRvT0wMSh5qAxMx54icZRR8aX9P7Gqg0yqgMzVa6DD%2FiWy%2BhDSDoxmPvydTM%2FG9WsJq1iaF8lpsJHu3LLam%2BKQXFDqJP7kaAe1jyuT4j3cRHvoy3y%2BZFNAw118SzIeD%2BI&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250805T070623Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6JCS7GIS%2F20250805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3aca237f06818cc9fa4118988a73eca325fdbdd5f37b93382a735acfe4965bb2&hash=8ce937e6f15163d832e21b5dc1b269773d9560bb5ee89f9dcfedce3404edb55e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0950705125002084&tid=spdf-e0d711b4-f558-4bcc-9ded-c1b24b477b17&sid=3c996fa71563b4467f890e4-294d7c857bfdgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=12095d56045454505854&rr=96a473978c064e3c&cc=th)|
+| | [2) Damped weighted erasable itemset mining with time sensitive dynamic environments](https://link.springer.com/content/pdf/10.1186/s40537-024-01056-8.pdf)|
+| งานวิจัยที่เลือก| [Explainable AI reveals Clever Hans effects in unsupervised learning models](https://www.nature.com/articles/s42256-025-01000-2.pdf)|
+| ครั้งที่ 3 Abstract| [Abstract](https://www.canva.com/design/DAGuhiwR3hE/fv11vwr8PQE-jyDoKQMd3w/edit?utm_content=DAGuhiwR3hE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|
+| ครั้งที่ 4 Results| [Results](https://www.canva.com/design/DAGvHpc-E6c/iYLTwKl3UkLaQb-QdKWytQ/edit?utm_content=DAGvHpc-E6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-* ครั้งที่ 1 งานวิจัยที่หามาเอง
-1) Zheng, Z., He, Z., Khattab, O., Rampal, N., Zaharia, M. A., Borgs, C., ... & Yaghi, O. M. (2024). Image and data mining in reticular chemistry powered by GPT-4V. Digital discovery, 3(3), 491-501.
-2) Murray, J. D., Bennett-Lenane, H., O’Dwyer, P. J., & Griffin, B. T. (2024). Establishing a Pharmacoinformatics Repository of Approved Medicines: A Database to Support Drug Product Development. Molecular Pharmaceutics, 22(1), 408-423.
-3) Park, S., Kim, H., Kim, H., Cho, M., Kim, D., Kim, D., & Yun, U. (2025). Approximate erasable pattern discovery and analytics on stream data. Knowledge-Based Systems, 312, 113161.
 
-* ครั้งที่ 2 เลือกงานวิจัย
-1) Park, S., Kim, H., Kim, H., Cho, M., Kim, D., Kim, D., & Yun, U. (2025). Approximate erasable pattern discovery and analytics on stream data. Knowledge-Based Systems, 312, 113161.
-2) Kim, H., Cho, M., Park, S., Kim, D., Kim, D., & Yun, U. (2025). Damped weighted erasable itemset mining with time sensitive dynamic environments. Journal of Big Data, 12(1), 20.
-
-   งานวิจัยที่ได้คือ
-   
-Kauffmann, J., Dippel, J., Ruff, L., Samek, W., Müller, K. R., & Montavon, G. (2025). Explainable AI reveals Clever Hans effects in unsupervised learning models. Nature Machine Intelligence, 1-11.
-
-* ครั้งที่ 3 Abstract
-  
-[Abstract](https://www.canva.com/design/DAGuhiwR3hE/fv11vwr8PQE-jyDoKQMd3w/edit?utm_content=DAGuhiwR3hE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
