@@ -1,7 +1,8 @@
 # MSC_DPDM_2025
 Kritsadakorn phuyodploy 685020050-1
 
-Score:
+# Score
+
 | Part|  %|
 | -------|------|
 | Research Project|  20%|
@@ -11,8 +12,8 @@ Score:
 | Final Exam|  20%|
 
 
-
-| Research| |
+# Research
+| Part| Link|
 | ----------------------|----|
 | ครั้งที่ 1 งานวิจัยที่หามาเอง| [1) Image and data mining in reticular chemistry powered by GPT-4V. Digital discovery](https://pubs.rsc.org/en/content/articlepdf/2024/dd/d3dd00239j)|
 | | [2) Establishing a Pharmacoinformatics Repository of Approved Medicines: A Database to Support Drug Product Development. Molecular Pharmaceutics](https://pubs.acs.org/doi/pdf/10.1021/acs.molpharmaceut.4c00991)|
